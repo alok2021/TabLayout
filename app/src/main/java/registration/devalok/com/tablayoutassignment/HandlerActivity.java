@@ -13,7 +13,7 @@ int i = 0;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_handler);
-
+//
         id_textView = (TextView) findViewById(R.id.id_textView);
         id_textView.setText("");
         new Handler().postDelayed(new Runnable() {
