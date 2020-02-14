@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DBMCI</string>
+
+
+    <string name="text_verification">Verification</string>
+    <string name="text_verifyInstructions">Please type the verification code sent to</string>
+
+    <string name="text_resend_otp"><u>Resend OTP?</u></string>
+
+    <string name="text_preparing_for">I am Preparing For</string>
+
+    <string name="text_verify_button">Verify</string>
+</resources>

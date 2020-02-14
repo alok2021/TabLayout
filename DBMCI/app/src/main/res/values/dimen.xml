@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+
+   <dimen name="pinView_marginTop">60dp</dimen>
+
+   <dimen name="textView_margin_left">20dp</dimen>
+   <dimen name="textView_margin_right">20dp</dimen>
+   <dimen name="textView_margin_top">20dp</dimen>
+   <dimen name="textView_margin_bottom">20dp</dimen>
+
+
+   <dimen name="button_marginTop">60dp</dimen>
+
+
+</resources>
