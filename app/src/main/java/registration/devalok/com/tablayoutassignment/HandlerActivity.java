@@ -22,7 +22,7 @@ int i = 0;
                 id_textView.append(++i+" Hello Using Post Delayed"+"\n");
             }
         },3000);
-
+//
         new Handler().postAtTime(new Runnable() {
             @Override
             public void run() {
